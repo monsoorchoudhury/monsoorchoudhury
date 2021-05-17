@@ -16,8 +16,7 @@
 <a href="https://linkedin.com/in/monsoorch/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/codeforall" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/monsoorchoudhury" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" height="30" width="40" /></a>
-  
-<a href="https://www.leetcode.com/monsoorch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" class="w-6 h-6 sm:w-8 sm:h-8 mr-1 sm:mr-4" alt="monsoorch" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/monsoorch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg"  height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
