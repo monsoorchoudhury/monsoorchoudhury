@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/monsoorch/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="monsoorch/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codeforall" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" class="w-6 h-6 sm:w-8 sm:h-8 mr-1 sm:mr-4" alt="codeforall" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/codeforall" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" alt="codeforall/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/monsoorchoudhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="monsoorchoudhury" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/monsoorch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="monsoorch" height="30" width="40" /></a>
 </p>
