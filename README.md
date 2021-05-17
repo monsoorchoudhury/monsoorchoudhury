@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Monsoor Choudhury</h1>
 <h3 align="center">A passionate SDET and Tools Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monsoorch&label=Profile%20views&color=0e75b6&style=flat" alt="monsoorch" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monsoorch&label=Profile%20views&color=0e75b6&style=flat" alt="monsoorchoudhury" /> </p>
 
-- 🔭 I’m currently working on **Tools Development**
+- 🔭 I’m currently working on **Tools Development/Automation**
 
 - 🌱 I’m currently learning **AI-ML,Cloud**
 
